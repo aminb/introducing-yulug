@@ -1,4 +1,4 @@
 [submodule "remark"]
 	path = remark
-	url = https://github.com/aminb/remark.git
-	branch = aminb
+	url = https://github.com/gnab/remark.git
+	branch = develop
